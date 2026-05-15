@@ -1,0 +1,2 @@
+# winlock-for-python
+winlock
